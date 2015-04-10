@@ -1,0 +1,16 @@
+{
+  "name": "anthonyprom-main",
+  "version": "1.0.0",
+  "description": "Main",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5"
+  }
+}

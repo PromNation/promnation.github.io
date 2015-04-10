@@ -1,0 +1,38 @@
+<style shim-shadowdom>
+    body.core-narrow{
+        padding:8px;
+    }
+paper-tabs, core-toolbar {
+    background-color: #4CAF50;
+    color: #fff;
+    box-shadow: 0px 3px 2px #A5D6A7;
+}
+core-toolbar paper-tabs {
+    box-shadow: none;
+}
+paper-toggle-button.fun::shadow .toggle-ink {
+      color: #2196F3;
+    }
+
+    paper-toggle-button.fun::shadow .toggle-bar {
+      background-color: #2196F3;
+    }
+
+    paper-toggle-button.fun::shadow .toggle-button {
+      background-color: #2196F3;
+    }
+
+    paper-toggle-button.fun::shadow [checked] .toggle-ink {
+      color: #E91E63;
+    }
+
+    paper-toggle-button.fun::shadow [checked] .toggle-bar {
+      background-color: #E91E63;
+    }
+
+    paper-toggle-button.fun::shadow [checked] .toggle-button {
+      background-color: #E91E63;
+    }
+
+
+</style>
